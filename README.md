@@ -1,1 +1,1 @@
-# netflixCloneByHetvi
+# netflixClone
